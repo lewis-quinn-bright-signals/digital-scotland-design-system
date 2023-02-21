@@ -1,0 +1,35 @@
+export default function Footer() {
+    return (
+        <footer class="ds_site-footer">
+            <div class="ds_wrapper">
+                <div class="ds_site-footer__content">
+                    <ul class="ds_site-footer__site-items">
+                        <li class="ds_site-items__item">
+                            <a href="#">Privacy</a>
+                        </li>
+                        <li class="ds_site-items__item">
+                            <a href="#">Cookies</a>
+                        </li>
+                        <li class="ds_site-items__item">
+                            <a href="#">Accessibility</a>
+                        </li>
+                    </ul>
+
+                    <div class="ds_site-footer__copyright">
+                        <a class="ds_site-footer__copyright-logo" href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">
+                            <img src="/assets/images/logos/ogl.svg" alt="Open Government License" />
+                        </a>
+                        <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, except for graphic assets and where otherwise stated</p>
+                        <p>&copy; Crown Copyright</p>
+                    </div>
+
+                    <div class="ds_site-footer__org">
+                        <a class="ds_site-footer__org-link" title="The Scottish Government" href="https://www.gov.scot/">
+                            <img class="ds_site-footer__org-logo" src="/assets/images/logos/scottish-government--min.svg" alt="gov.scot" loading="lazy" width="300" height="55" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    )
+}
