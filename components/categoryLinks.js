@@ -41,38 +41,6 @@ export default function CatLink() {
                                   </h2>
                                 </Link>
                               </li>
-
-                              <li className='ds_category-item'>
-                                <Link href={"#"} className="ds_category-item__link" data-navigation="category-item-1">
-                                  <h2 className='ds_category-item__title ds_!_margin-top--auto ds_!_margin-bottom--0 ds_!_display--flex'>
-                                    Test category
-                                  </h2>
-                                </Link>
-                              </li>
-
-                              <li className='ds_category-item'>
-                                <Link href={"#"} className="ds_category-item__link" data-navigation="category-item-1">
-                                  <h2 className='ds_category-item__title ds_!_margin-top--auto ds_!_margin-bottom--0 ds_!_display--flex'>
-                                    Test category
-                                  </h2>
-                                </Link>
-                              </li>
-
-                              <li className='ds_category-item'>
-                                <Link href={"#"} className="ds_category-item__link" data-navigation="category-item-1">
-                                  <h2 className='ds_category-item__title ds_!_margin-top--auto ds_!_margin-bottom--0 ds_!_display--flex'>
-                                    Test category
-                                  </h2>
-                                </Link>
-                              </li>
-
-                              <li className='ds_category-item'>
-                                <Link href={"#"} className="ds_category-item__link" data-navigation="category-item-1">
-                                  <h2 className='ds_category-item__title ds_!_margin-top--auto ds_!_margin-bottom--0 ds_!_display--flex'>
-                                    Test category
-                                  </h2>
-                                </Link>
-                              </li>
                             
                             </ol>
                         </div>

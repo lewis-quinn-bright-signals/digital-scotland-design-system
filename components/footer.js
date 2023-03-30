@@ -1,5 +1,11 @@
+import Link from "next/link"
+import BackToTop from "./backToTop"
+
 export default function Footer() {
     return (
+        <>
+        <BackToTop/>
+
         <footer class="ds_site-footer">
             <div class="ds_wrapper">
                 <div class="ds_site-footer__content">
@@ -31,5 +37,6 @@ export default function Footer() {
                 </div>
             </div>
         </footer>
+        </>
     )
 }
